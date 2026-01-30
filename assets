@@ -14,4 +14,4 @@
 [Suggest] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
 [UI] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
 [Var] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
-[Workspace] = [Version: 1.0.0.1; Status: Available; Description: Unity Layout Manager; Download: www.google.com;]
+[Workspaces] = [Version: 1.0.0.1; Status: Available; Description: Unity Layout Manager; Download: www.google.com;]
