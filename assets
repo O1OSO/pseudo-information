@@ -1,1 +1,17 @@
-[PseudoWorkspacesPlugin] = [Version: 1.0.0.1; Status: Available; Description: Unity Layout Manager; Download: www.google.com;]
+--- Base ------
+[Pseudo] = [Version: 1.0.0.0]
+--- Plugins ---
+[Bind] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
+[Command] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
+[Commander] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
+[Core] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
+[Execute] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
+[Log] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
+[Parse] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
+[Persist] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
+[PlayerConsole] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
+[Shortcut] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
+[Suggest] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
+[UI] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
+[Var] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
+[Workspace] = [Version: 1.0.0.1; Status: Available; Description: Unity Layout Manager; Download: www.google.com;]
