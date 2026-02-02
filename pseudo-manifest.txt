@@ -1,5 +1,5 @@
 - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S -
-[PseudoAssets - Pseudo Studio] = [Version: 1.0.0.0]
+[PseudoAssets - PseudoSDK] = [Version: 1.0.0.0]
 - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S -
 [PseudoPlugin - Bind] = [Version: 1.0.0.0; Status: Available; Description: TBD; Path: plugins/_Bind_1000]
 [PseudoPlugin - CMDs] = [Version: 1.0.0.0; Status: Available; Description: TBD; Path: plugins/_Cmds_1000]
