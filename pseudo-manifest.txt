@@ -1,9 +1,9 @@
 - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S -
 [PseudoAssets - Pseudo Studio] = [Version: 1.0.0.0]
 - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S -
-[PseudoPlugin - Bind] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
-[PseudoPlugin - CMDs] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
-[PseudoPlugin - CommanderEditor] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
+[PseudoPlugin - Bind] = [Version: 1.0.0.0; Status: Available; Description: TBD; Path: plugins/_Bind_1000]
+[PseudoPlugin - CMDs] = [Version: 1.0.0.0; Status: Available; Description: TBD; Path: plugins/_Cmds_1000]
+[PseudoPlugin - CommanderEditor] = [Version: 1.0.0.0; Status: Available; Description: TBD; Path: plugins/CommanderEditor_1000]
 [PseudoPlugin - CommanderPlayer] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
 [PseudoPlugin - Execute] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
 [PseudoPlugin - Parse] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
