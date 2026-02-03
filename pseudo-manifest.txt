@@ -1,6 +1,4 @@
-- P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S -
-[PseudoAssets - PseudoSDK] = [Version: 1.0.0.0]
-- P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S -
+[PseudoAsset - PseudoSDK] = [Version: 1.0.0.0]
 [PseudoPlugin - Bind] = [Version: 1.0.0.0; Status: Available; Description: TBD; Path: plugins/_Bind_1000]
 [PseudoPlugin - CMDs] = [Version: 1.0.0.0; Status: Available; Description: TBD; Path: plugins/_Cmds_1000]
 [PseudoPlugin - CommanderEditor] = [Version: 1.0.0.0; Status: Available; Description: TBD; Path: plugins/CommanderEditor_1000]
@@ -15,4 +13,3 @@
 [PseudoPlugin - Utility] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
 [PseudoPlugin - VARs] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
 [PseudoPlugin - Workspaces] = [Version: 1.0.0.1; Status: Available; Description: Unity Layout Manager; Download: www.google.com;]
-- P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S - P - S -
