@@ -1,1 +1,4 @@
-[PseudoAnnouncement] = [Icon: d_icon; Title; Test Title; Content: Test Message; Badge: d_AS Badge New; URL: https://www.google.com/?client=safari]
+[Icon: d_icon; Title; Test Title; Content: Test Message; Badge: d_AS Badge New; URL: https://www.google.com/?client=safari]
+[Icon: d_icon; Title; Test Title 2; Content: Test Message; Badge: d_AS Badge New; URL: https://www.google.com/?client=safari]
+[Icon: d_icon; Title; Test Title 3; Content: Test Message; Badge: d_AS Badge New; URL: https://www.google.com/?client=safari]
+[Icon: d_icon; Title; Test Title 4; Content: Test Message; Badge: d_AS Badge New; URL: https://www.google.com/?client=safari]
