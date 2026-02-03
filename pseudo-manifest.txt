@@ -9,7 +9,7 @@
 [PseudoPlugin - Record] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
 [PseudoPlugin - Shortcut] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
 [PseudoPlugin - Suggest] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
-[PseudoPlugin - UITK] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
+[PseudoPlugin - UITK*] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
 [PseudoPlugin - Utility] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
 [PseudoPlugin - VARs] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
 [PseudoPlugin - Workspaces] = [Version: 1.0.0.1; Status: Available; Description: Unity Layout Manager; URL: www.google.com;]
