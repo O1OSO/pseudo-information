@@ -1,1 +1,1 @@
-[PseudoAnnouncement] = [icon: d_icon; title; Test Title; message: Test Message; link: https://www.google.com/?client=safari]
+[PseudoAnnouncement] = [icon: d_icon; title; Test Title; message: Test Message; badge: d_AS Badge New; link: https://www.google.com/?client=safari]
