@@ -1,1 +1,1 @@
-[PseudoAnnouncement] = [icon: ""; message: "";]
+[PseudoAnnouncement] = [icon: d_icon; title; Test Title; message: Test Message; link: https://www.google.com/?client=safari]
