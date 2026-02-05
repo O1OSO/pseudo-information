@@ -1,6 +1,6 @@
 [PseudoAsset - PseudoSDK] = [Version: 1.0.0.0]
-[PseudoPlugin - Bind] = [Version: 1.0.0.0; Status: Available; Description: TBD; Path: plugins/_Bind_1000]
-[PseudoPlugin - CMDs] = [Version: 1.0.0.0; Status: Available; Description: TBD; Path: plugins/_Cmds_1000]
+[PseudoPlugin - Bind] = [Version: 1.0.0.0; Status: Available; Description: TBD; Path: plugins/Bind]
+[PseudoPlugin - CMDs] = [Version: 1.0.0.0; Status: Available; Description: TBD; Path: plugins/Cmds]
 [PseudoPlugin - CommanderEditor] = [Version: 1.0.0.0; Status: Available; Description: TBD; Path: plugins/CommanderEditor_1000]
 [PseudoPlugin - CommanderPlayer] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
 [PseudoPlugin - Execute] = [Version: 1.0.0.0; Status: Available; Description: TBD;]
